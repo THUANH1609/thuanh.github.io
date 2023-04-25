@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header img {
+    float: left;
+    height: 100px;
+    width: 290px;
+    margin-left: 15px;
+}
+
+header .menu ul {
+    list-style: none;
+}
+
+header .menu ul li {
+    float: right;
+    padding: 0px 15px;
+    margin-top: 20px;
+}
+
+header .menu ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+
+button {
+    font-size: 22px;
+    color: white;
+    background: black;
+    height: 30px;
+}
+
+.headline {
+    background: rgb(226, 164, 48);
+    width: 100%;
+    height: 400px;
+}
+
+.headline img {
+    float: right;
+    width: 400px;
+    height: 300px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.headline h1 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.headline {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 35px;
+}
+
+hr {
+    margin-left: 270px;
+}
+
+p {
+    margin-top: 60px;
+    font-size: 25px;
+}
+
+.headline p a img {
+    width: 45px;
+    height: 45px;
+}
+
+.list h1 {
+    text-align: center;
+    color: orange;
+}
+
+iframe {
+    text-align: right;
+}
+
+.list p {
+    color: rgb(250, 180, 50);
+    font-size: 20px;
+    margin-top: -15%;
+}
+
+.nd {
+    text-align: center;
+}
+
+.list2 h1 {
+    text-align: center;
+    color: orange;
+}
+
+.list2 p {
+    font-size: 15px;
+}
+
+.list2 table tr td img {
+    width: 400px;
+    height: 300px;
+}
+
+.list2 p {
+    color: rgb(250, 180, 50);
+    font-size: 20px;
+    margin-top: -15%;
+}
